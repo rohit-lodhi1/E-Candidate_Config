@@ -22,7 +22,7 @@ secret:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-#    password: root
+   password: Java@2023
     username: root
   jpa:
     hibernate:
